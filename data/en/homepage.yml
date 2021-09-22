@@ -1,0 +1,140 @@
+################################# Slider #####################################
+slider:
+  enable : true
+  bg_image : "images/banner/banner-1.jpeg"
+  slider_item:
+    # slider item loop
+    - title : "Data Science for Smart Development!"
+      content : "ML and AI is the new gold for the 21st century"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Apply now"
+        link : "contact"
+
+    # slider item loop
+    - title : "Your bright future is our mission"
+      content : "We will prepare you for ML and AI today and tomorrow"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Apply now"
+        link : "contact"
+
+    # slider item loop
+    - title : "Knowledgeable and personable Founding Members"
+      content : "We assembly the best in AI and ML with cutting-edge experience domain knowledge and Personality"
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Apply now"
+        link : "contact"
+
+
+############################### Banner feature ###############################
+banner_feature:
+  enable : true
+  image : "images/banner/banner-feature.jpeg"
+  feature_item:
+    # feature item loop
+    - name : "Scholorship News"
+      icon : "ti-book" # icon pack : https://themify.me/themify-icons
+      content : "We have funding opportunities for brilliant but needy students"
+
+    # feature item loop
+    - name : "Our Notice Board"
+      icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
+      content : "Quick place to look key announcements"
+
+    # feature item loop
+    - name : "Our Achievements"
+      icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
+      content : "..."
+
+    # feature item loop
+    - name : "Admission Now"
+      icon : "ti-write" # icon pack : https://themify.me/themify-icons
+      content : "Advanced R"
+
+
+############################## about ##################################
+about:
+  enable : true
+  title : "About Data Smart Science"
+  image : "images/about/about-us.PNG"
+  content : "Great time to be alive"
+  button:
+    enable : true
+    label : "Learn more"
+    link : "about"
+
+
+############################# Course ################################
+course:
+  enable : true
+  title : "Our Course"
+  # course item comes from "content/**/course" folder.
+
+########################## Call to action ############################
+cta:
+  enable : true
+  subtitle : "Click to Join the Advance Workshop"
+  title : "Training In Advance Networking"
+  button:
+    enable : true
+    label : "join now"
+    link : "contact"
+
+
+######################## Success story #############################
+success_story:
+  enable : true
+  bg_image : "images/backgrounds/success-story.jpg"
+  title : "Success Stories"
+  content : "You will love this"
+  # video link
+  video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
+
+
+############################# event ################################
+event:
+  enable : true
+  title : "Upcoming Events"
+  # event item comes from "content/**/event" folder.
+
+  
+########################### funfacts ############################
+funfacts:
+  enable : true
+  funfact_item:
+    # funfact item loop
+    - name : "TEACHERS"
+      count : "7"
+
+    # funfact item loop
+    - name : "COURSES"
+      count : "5"
+
+    # funfact item loop
+    - name : "STUDENTS"
+      count : "50"
+
+    # funfact item loop
+    - name : "SATISFIED CLIENT"
+      count : "50"
+
+# funfact is for about page
+
+
+
+############################# blog ################################
+blog:
+  enable : true
+  title : "Latest News"
+  # blog item comes from "content/**/blog" folder.
