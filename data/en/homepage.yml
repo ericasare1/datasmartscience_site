@@ -26,7 +26,7 @@ slider:
         link : "contact"
 
     # slider item loop
-    - title : "Knowledgeable and personable Founding Members"
+    - title : "Knowledgeable and Personable Founding Members"
       content : "We assembly the best in AI and ML with cutting-edge experience domain knowledge and Personality"
       animation_in : "left"
       animation_out : "right"
