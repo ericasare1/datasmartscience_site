@@ -10,4 +10,4 @@ title: About Us
 
 ## ABOUT OUR JOURNEY
 
-Ninety eight percent (98%) of all Machine Learning and AI activities are conducted in the western world (); This statistic changed something in us. It is widely known that AI and ML are the new gold of the 21st century. Africa can not be left out of this golden opportunity. A group of Africans in the diaspora, who are in the AI and ML industry, has decided to do just that with Data Smart Science. Data Smart Science champions smart development in the developing world!
+Data science is changing the world. The under-representation of the developing world in the data science implementation stage is a problem. We founded this organization to contribute to training the workforce in the developing world in data science methods and applications for smart development. 

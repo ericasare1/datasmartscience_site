@@ -70,16 +70,16 @@ Languages:
     languageName: En
     menu:
       footer:
-        - name: teacher
-          url: teacher
+        - name: founding partners
+          url: founding partners
         - name: notice
           url: notice
         - name: event
           url: event
-        - name: scholarship
-          url: scholarship
-        - name: research
-          url: research
+        - name: AI graduate education & scholarship
+          url: AI graduate education & scholarship
+        - name: global AI research & projects
+          url: global AI research & projects
       main:
         - name: About
           url: about
@@ -90,21 +90,21 @@ Languages:
         - hasChildren: yes
           name: Announcements
           weight: 3
-        - name: teacher
+        - name: founding partners
           parent: Announcements
-          url: teacher
+          url: founding partners
         - name: notice
           parent: Announcements
           url: notice
         - name: event
           parent: Announcements
           url: event
-        - name: scholarship
+        - name: AI graduate education & scholarship
           parent: Announcements
           url: scholarship
-        - name: research
+        - name: global AI research & projects
           parent: Announcements
-          url: research
+          url: global AI research & projects
         - name: blog
           url: blog
           weight: 4
@@ -120,45 +120,45 @@ Languages:
     languageName: Fr
     menu:
       footer:
-        - name: teacher
-          url: teacher
+        - name: founding partners
+          url: founding partners
         - name: notice
           url: notice
         - name: event
           url: event
-        - name: scholarship
-          url: scholarship
-        - name: research
-          url: research
+        - name: AI graduate education & scholarship
+          url: AI graduate education & scholarship
+        - name: global AI research & projects
+          url: global AI research & projects
       main:
         - name: À propos
           url: about
           weight: 1
-        - name: Course
+        - name: course
           url: course
           weight: 2
         - hasChildren: yes
-          name: Pages
+          name: Announcements
           weight: 3
-        - name: teacher
-          parent: Pages
-          url: teacher
+        - name: founding partners
+          parent: Announcements
+          url: founding partners
         - name: notice
-          parent: Pages
+          parent: Announcements
           url: notice
-        - name: Évènement
-          parent: Pages
+        - name: event
+          parent: Announcements
           url: event
-        - name: Cursus
-          parent: Pages
+        - name: AI graduate education & scholarship
+          parent: Announcements
           url: scholarship
-        - name: research
-          parent: Pages
-          url: research
+        - name: global AI research & projects
+          parent: Announcements
+          url: global AI research & projects
         - name: blog
           url: blog
           weight: 4
         - name: Contact
           url: contact
           weight: 5
-    weight: 2
+    weight: 1
